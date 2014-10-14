@@ -1,0 +1,81 @@
+.row
+	.col-md-2
+	.col-md-8
+		.jumbotron
+			%h1 Spooners
+			%p Spooners is socila game for unlimited number of players. It's a role playing 'ish game that you can play anywhere in the world. All you need is a spoon. 
+			%p Try out our online game managmnet.  
+			%button.btn.btn-primary.btn-lg.open-settings#register{:type => "button"}  REGISTER
+			%h3 Invite more spooners!
+			%p Introduce the game to friends, invite them to play!
+			%button.btn.btn-primary.btn-lg.open-settings#invite{:type => "button"}  INVITE
+		.well.well-lg
+			%h2 Are you a Spooner?
+			%p Use our online game managment to track your sessions, spooners and their hits, scores etc... or you can use, excels, or... paper.
+			%button.btn.btn-primary.btn-lg.open-settings#new-session{:type => "button"}  START NEW SESSION!
+	.col-md-2
+.row 
+	.col-md-2
+	.col-md-8
+		.page-heading.rules-heading 
+			%h1 
+				The Rules! 
+				%small Moderator has the finaly say in all matters!
+		.panel.panel-info#rules
+			.panel-heading
+				%h3.panel-title.rules-title.text-uppercase general rules
+			.panel-body
+				%ul
+					%li Each spooner is invited into a session by a session moderator.
+					%li Each session can have any number of players, minimum 3 players (eg. moderator, and 2 spooners).
+					%li Spooners are not aware of how many players are pariticipating in a session.
+					%li Each spooner is assigind his first target by the session moderator, at the begining of the session. 
+					%li After a spooner(1) has eliminated his first target, the eliminated spooner(2) must reveal his target to his assassin, spooner(1). Spooner(1) then inherits the target of the eliminated spooner(2). This proccess is repetead until only 1 spooner remains active in session. 
+					%li spooners are not allowe to cooperate, spooners can not "team up". Each spooner plays by himself.
+					%li Sppooner is played on all locations 24/7
+					%li Winner gets 3 points overall
+
+		.panel.panel-danger.the-goal#goal
+			.panel-heading
+				%h3.panel-heading.panel-title.rules-title.text-uppercase the goal
+			.panel-body
+				%p.text-center Eliminate all spooners, in your game session!
+
+		.panel.panel-default.methods#methods
+			.panel-heading
+				%h3.panel-heading.panel-title.rules-title.text-uppercase methods of elimination
+			%table.table 
+				%tr
+					%th Method
+					%th Description
+					%th Points
+				%tr	
+					%td Spooning
+					%td Touch another spooner with a spoon, on the back.
+					%td 1
+				%tr	
+					%td Posion
+					%td Put a piece of paper in food, or drinks of your target. The word on the paper must spell "posion"
+					%td 2
+				%tr	
+					%td Time bomb
+					%td Set your targets cellphone alarm to go off while you are still near your target, without him spoting you.
+					%td 3
+
+		.panel.panel-danger#elimination
+			.panel-heading 
+				%h3.panel-heading.panel-title.rules-title.text-uppercase valid elimination
+			.panel-body
+				%ul 
+					%li You have successfully preformed one of the elimination methods on your target.
+					%li You have reported your kill to your session moderator
+					%li Your target has confirmed your kill
+
+		.panel.panel-success#defense
+			.panel-heading 
+				%h3.panel-heading.panel-title.rules-title.text-uppercase defensive actions
+			.panel-body
+				%ul 
+					%li If you suspect a spooner to be your assassin, you can report him to the session moderator. If you are right you eliminate that spooner froma the session, if you are wrong you are eliminated.
+					%li If you spot ypur assassin in an attempt to posion you, or set a time bomb, he's automaticly eliminated			
+	.col-md-2

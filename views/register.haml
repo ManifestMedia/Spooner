@@ -1,0 +1,16 @@
+.col-md-12.settings.register.shadow
+	= haml :notifications
+	%h3 Register
+	%form#register-form{"role" => "form", :action => "/register", :method => "post"}
+		.form-group
+			%input.form-control#username{ "type" => "text", "placeholder" => "Enter username", :name => "username"}
+		.form-group
+			%input.form-control#email{ "type" => "email", "placeholder" => "Enter email", :name => "email"}
+		.form-group
+			%input.form-control#password{ "type" => "password", "placeholder" => "Enter password", :name => "password"}
+			.form-group
+			%input.form-control#password_check{ "type" => "password", "placeholder" => "Confirm password", :name => "password_check"}
+		%button.btn.btn-default{:type => "submit"} Register
+	.close-settings	
+		%button.btn.btn-default.close-settings-button{:type => "submit"} Close
+		

@@ -1,0 +1,75 @@
+%row
+	.col-md-2
+	.col-md-8
+		.page-heading.rules-heading 
+			%h1 
+				My active Session!
+				%small Currently playing as, Spooner
+		.panel.panel-primary.methods#active-session
+			.panel-heading
+				%h3.panel-heading.panel-title.rules-title.text-uppercase Session name: Ultimate deathmach.
+			%table.table 
+				%tr
+					%th My status
+					%th My target
+					%th My score this session
+					%th My kills
+					%th 
+				%tr	
+					%td Active
+					%td Mad_spooner43
+					%td 5
+					%td 3
+					%td 
+						%a(href="/profile") Details
+		.page-heading.rules-heading 
+			%h1 
+				My active Session!
+				%small Currently playing as, Moderator
+		.panel.panel-primary.methods#active-session
+			.panel-heading
+				%h3.panel-heading.panel-title.rules-title.text-uppercase Session name: My pitfall.
+			%table.table 
+				%tr
+					%th Session started
+					%th Active spooners
+					%th Eliminated spooners
+					%th Best score
+					%th 
+				%tr	
+					%td 25-09-2014 14:00
+					%td 12
+					%td 2
+					%td SpoonGirl69 (2)
+					%td 
+						%a(href="/active_session") Details
+
+		.page-heading.rules-heading 
+			%h1 
+				My active Session!
+				%small No active sessions!
+
+		.no-active-session
+			%button.btn.btn-primary.btn-lg.btn-lg.btn-block#new-session{:type => "button"}  START NEW SESSION!
+		
+		.page-heading.rules-heading.previous-sessions 
+			%h1 
+				My previous Sessions!
+		%table.table 
+			%tr
+				%th Session name
+				%th Session moderator
+				%th Total kills
+				%th Total players
+				%th My status
+				%th My score this session
+				%th My total kills
+			%tr	
+				%td Rodeo showdown
+				%td SuperSpooner
+				%td 24
+				%td 22
+				%td Moderator
+				%td 23
+				%td 12
+	.col-md-2

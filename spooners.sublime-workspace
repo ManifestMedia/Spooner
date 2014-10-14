@@ -1,0 +1,3191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spoo",
+				"spooner_id"
+			],
+			[
+				"Spoo",
+				"spooners"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"get",
+				"get_spooners_in_session"
+			],
+			[
+				"fin",
+				"find_spooner"
+			],
+			[
+				"active",
+				"active_session"
+			],
+			[
+				"el",
+				"elsif	elsif ..."
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"sessions",
+				"sessions_won"
+			],
+			[
+				"sess",
+				"sessions"
+			],
+			[
+				"val",
+				"valid_session"
+			],
+			[
+				"cre",
+				"created_on"
+			],
+			[
+				"regis",
+				"registered"
+			],
+			[
+				"vali",
+				"validate_page"
+			],
+			[
+				"is",
+				"is_mod"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"set",
+				"set_user_data"
+			],
+			[
+				"se",
+				"set_user_data"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"sub",
+				"submit  (function)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ree",
+				"response"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"sli",
+				"slideDown  (function)"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width:   (property)"
+			],
+			[
+				"LO",
+				"logo"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"com",
+				"companies"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"articles",
+				"article_categories"
+			],
+			[
+				"articl",
+				"articles"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"compnay",
+				"company_id"
+			],
+			[
+				"upload",
+				"upload_logo"
+			],
+			[
+				"dis",
+				"displacement"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"hour",
+				"hourly_rate"
+			],
+			[
+				"comp",
+				"company"
+			],
+			[
+				"compan",
+				"companies"
+			],
+			[
+				"admin",
+				"admin_view"
+			],
+			[
+				"res",
+				"response_time"
+			],
+			[
+				"name",
+				"name=  (attribute)"
+			],
+			[
+				"cate",
+				"Category"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cpm",
+				"company"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"file",
+				"file_uploader"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"artil",
+				"articles"
+			],
+			[
+				"po",
+				"post  (function)"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"delete",
+				"delete_file  (function)"
+			],
+			[
+				"ara",
+				"array"
+			],
+			[
+				"fil",
+				"files  (variable)"
+			],
+			[
+				"resul",
+				"result_array"
+			],
+			[
+				"aer",
+				"article_id"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"ta",
+				"table_name"
+			],
+			[
+				"new",
+				"new_article"
+			],
+			[
+				"article",
+				"article_id"
+			],
+			[
+				"inser",
+				"insert_id"
+			],
+			[
+				"save_",
+				"save_article"
+			],
+			[
+				"resu",
+				"result_array"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"DELETE",
+				"delete_file"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"i",
+				"if	if …"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"arry",
+				"array"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"image",
+				"image_row"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"sort",
+				"sortContent"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"project",
+				"projects"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"_pos",
+				"_POST  (variable)"
+			],
+			[
+				"MARGIN",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"Print",
+				"print_r"
+			],
+			[
+				"las",
+				"last_player_position"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"last",
+				"last_player"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"page",
+				"page_css_id"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"current",
+				"current_path"
+			],
+			[
+				"_s",
+				"_SESSION"
+			],
+			[
+				"_po",
+				"_POST"
+			],
+			[
+				"roo",
+				"root_folder"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"uri",
+				"uri_array"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"Us",
+				"user"
+			],
+			[
+				"question",
+				"question_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.rb",
+			"settings":
+			{
+				"buffer_size": 5311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "model.rb",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 4089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/profile.haml",
+			"settings":
+			{
+				"buffer_size": 3681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/sessions.haml",
+			"settings":
+			{
+				"buffer_size": 1661,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/home.haml",
+			"settings":
+			{
+				"buffer_size": 3565,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/spooners.haml",
+			"settings":
+			{
+				"buffer_size": 913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/active_session.haml",
+			"settings":
+			{
+				"buffer_size": 2431,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"syntax: co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set syntax: js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ha",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ser",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"sy",
+				"Set Syntax: YAML"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"com",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"sni",
+				"Snippet: Interface"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sf",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"sft",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"ipac",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"Snippet: FTP Close"
+			],
+			[
+				"commi",
+				"Git: Quick Commit"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"remote",
+				"Git: Remote"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"bracnh",
+				"Git: Checkout New Branch"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"COMM",
+				"Git: Quick Commit"
+			],
+			[
+				"Add",
+				"Git: Quick Add"
+			],
+			[
+				"ad",
+				"Git: Quick Add"
+			],
+			[
+				"git",
+				"Git: Log"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"che",
+				"Git: Checkout"
+			],
+			[
+				"branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"comm	",
+				"Git: Quick Commit"
+			],
+			[
+				"git sat",
+				"Git: Status"
+			],
+			[
+				"git i",
+				"Git: Init"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Git: Quick Commit"
+			],
+			[
+				"PACKAGE",
+				"Package Control: List Packages"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"sple",
+				"Google Spell Check"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packaga",
+				"Package Control: List Packages"
+			],
+			[
+				"stau",
+				"Git: Status"
+			],
+			[
+				"git s",
+				"Git: Show"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pakaga",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Simun/Development/Websites/Spooners",
+		"/Users/Simun/Development/Websites/Spooners/tmp"
+	],
+	"file_history":
+	[
+		"/Users/Simun/Development/Websites/Spooners/views/create_session.haml",
+		"/Users/Simun/Development/Websites/Spooners/assets/css/style.css",
+		"/Users/Simun/Development/Websites/Spooners/views/layout.haml",
+		"/Users/Simun/Development/Websites/Spooners/views/sessions.haml",
+		"/Users/Simun/Development/Websites/Spooners/views/home.haml",
+		"/Users/Simun/Development/Websites/Spooners/views/navigation.haml",
+		"/Users/Simun/Development/Websites/Spooners/tmp/always_restart-old.txt",
+		"/Users/Simun/Development/Websites/Spooners/tmp/always_restart.txt",
+		"/Users/Simun/Development/Websites/Spooners/views/login.haml",
+		"/Users/Simun/Development/Websites/Spooners/Gemfile.lock",
+		"/Users/Simun/Development/Websites/Spooners/config.ru",
+		"/Users/Simun/Development/Websites/Spooners/views/register.haml",
+		"/Users/Simun/Development/Websites/Spooners/spooners.sublime-project",
+		"/Users/Simun/Development/Websites/Spooners/views/notifications.haml",
+		"/Users/Simun/Development/Websites/Spooners/views/invite.haml",
+		"/Users/Simun/Development/Websites/Spooners/views/active_session.haml",
+		"/Users/Simun/Development/Websites/Spooners/assets/coffee/script.coffe",
+		"/Users/Simun/Development/Websites/Spooners/assets/fonts/glyphicons-halflings-regular.woff",
+		"/Users/Simun/Development/Websites/Spooners/views/loader.haml",
+		"/Users/Simun/Development/Webapps/Hyperlist/app/assets/javascripts/tasks.js.coffee",
+		"/Users/Simun/Development/Websites/Spooners/views/script.coffee",
+		"/Users/Simun/Development/Websites/Spooners/Gemfile",
+		"/Users/Simun/Development/Webapps/Turnt/Server/helpers/user_helper.rb",
+		"/Users/Simun/Development/Webapps/Turnt/Server/models/user.rb",
+		"/Users/Simun/Development/Websites/Kel/assets/js/custom.js",
+		"/Users/Simun/Development/Websites/Kel/assets/js/main.js",
+		"/Users/Simun/Development/Websites/Spooners/assets/js/jquery.validate.min.js",
+		"/Users/Simun/Development/Webapps/Turnt/Server/api_controller.rb",
+		"/Users/Simun/Development/Tutorials/Sinatra WEB/song.rb",
+		"/Users/Simun/Development/Tutorials/Sinatra WEB/main.rb",
+		"/Users/Simun/Development/Websites/Spooners/views/profile.haml",
+		"/Users/Simun/Development/Websites/Spooners/assets/js/jquery.min.js.webarchive",
+		"/Users/Simun/Development/Websites/Spooners/assets/stylesheets/application.css",
+		"/Users/Simun/Development/Websites/Spooners/tmp/restart.txt",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/article_categories.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/edit_article_category.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/header.php",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/tags.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/blocks/edit_form_1.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/blocks/edit_form_2.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/edit_city.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/edit_category.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/edit_article.php",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/articles.php",
+		"/Users/Simun/Development/Websites/Kel/application/models/article.php",
+		"/Users/Simun/Development/Websites/Kel/application/config/autoload.php",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/article_categories.php",
+		"/Users/Simun/Development/Websites/Kel/application/models/article_category.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/articles.php",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/forms.html",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/file_manager.html",
+		"/Users/Simun/Development/Websites/Kel/assets/css/main.css",
+		"/Users/Simun/Development/Websites/Kel/application/views/company.php",
+		"/Users/Simun/Development/Websites/Kel/application/models/company.php",
+		"/Users/Simun/Development/Websites/Kel/system/core/Common.php",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/form_validation.html",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/companies.php",
+		"/Users/Simun/Development/Websites/Kel/application/config/config.php",
+		"/Users/Simun/Development/Websites/Kel/application/models/tag.php",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/admin.php",
+		"/Users/Simun/Development/Websites/Kel/system/helpers/date_helper.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/header.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/edit_company.php",
+		"/Users/Simun/Development/Websites/Kel/assets/css/custom.css",
+		"/Users/Simun/Development/Websites/Kel/application/views/registration.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/new_company.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/new_article.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/companies.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/dashboard.php",
+		"/Users/Simun/Development/Websites/Kel/application/config/database.php",
+		"/Users/Simun/Development/Websites/Kel/assets/front/css/main.css",
+		"/Users/Simun/Development/Websites/Kel/application/config/smileys.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/blocks/stats.php",
+		"/Users/Simun/Development/Websites/Kel/system/libraries/Typography.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/edit_1.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/categories.php",
+		"/Users/Simun/Development/Websites/Kel/application/config/routes.php",
+		"/Users/Simun/Development/Websites/Kel/.gitignore",
+		"/Users/Simun/Development/Websites/Kel/application/views/blocks/login_form.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/blocks/registration_form.php",
+		"/Users/Simun/Dropbox/KEL/sliceage/validation-page.html",
+		"/Users/Simun/Development/Websites/Kel/application/views/blocks/validation_form.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/validation.php",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/front.php",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/form_wizards.html",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/admin/categories.php",
+		"/Users/Simun/Development/Websites/Kel/assets/front/css/normalize.css",
+		"/Users/Simun/Development/Websites/Kel/application/config/hooks.php",
+		"/Users/Simun/Development/Websites/Kel/application/language/korean/ion_auth_lang.php",
+		"/Users/Simun/Development/Websites/Kel/application/libraries/render.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/categories.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/cities.php",
+		"/Users/Simun/Development/Websites/Kel/application/models/category.php",
+		"/Users/Simun/Development/Websites/Kel/system/libraries/Cart.php",
+		"/Users/Simun/Development/Websites/Kel/system/libraries/Calendar.php",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/calendar.html",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/admin/cities.php",
+		"/Users/Simun/Development/Websites/Kel/application/models/city.php",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/admin/articles.php",
+		"/Users/Simun/Development/Websites/Kel/deploy/after_push",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/admin/admin.php",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/grid.html",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/categories.php",
+		"/Users/Simun/Development/Websites/Kel/system/libraries/Cache/drivers/Cache_apc.php",
+		"/Users/Simun/Development/Websites/Kel/application/controllers/cities.php",
+		"/Users/Simun/Development/Websites/Kel/system/core/CodeIgniter.php",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/ui_elements.html",
+		"/Users/Simun/Development/Websites/Kel/index.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/login.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/blocks/right_tips.php",
+		"/private/etc/php.ini.default",
+		"/Users/Simun/Development/Websites/Kel/application/index.html",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/form_editor.html",
+		"/Users/Simun/Development/Websites/Kel/files/file_1409328294.doc",
+		"/Users/Simun/Development/Websites/Kel/assets/css/ui_custom.css",
+		"/Users/Simun/Development/Websites/Kel/system/core/URI.php",
+		"/Users/Simun/Development/Websites/Kel/Kel_2014-08-29.sql",
+		"/Users/Simun/Development/Websites/Kel/Kel_2014-08-26.sql",
+		"/Users/Simun/Development/Websites/Kel/Manifest_UIKit/HTML/widgets.html",
+		"/Users/Simun/Development/Websites/Kel/system/helpers/download_helper.php",
+		"/Users/Simun/Development/Websites/Kel/application/views/admin/profile.php",
+		"/Users/Simun/Development/Websites/Kel/system/libraries/Profiler.php",
+		"/Users/Simun/Development/Websites/Kel/application/config/profiler.php",
+		"/Users/Simun/Development/Websites/Kel/system/database/drivers/pdo/pdo_result.php",
+		"/Users/Simun/Development/Websites/Kel/system/database/drivers/postgre/postgre_result.php",
+		"/Users/Simun/Development/Websites/Kel/.htaccess",
+		"/Users/Simun/Development/Websites/Kel/assets/css/fullcalendar.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session[:user_data][\"valid\"]",
+			"session",
+			",\n",
+			"#logout",
+			"#register-form",
+			"register",
+			"#login",
+			"close-settings",
+			"#profile",
+			"danger",
+			"login-form",
+			"register-form",
+			"registration-form",
+			"registration form",
+			"login",
+			"spoo",
+			"logo",
+			"@",
+			"?>\n",
+			"');\n",
+			"button sampl",
+			"option",
+			"tabs",
+			"size",
+			"                \n",
+			"time",
+			"drop",
+			"time",
+			"button",
+			"client",
+			"clients",
+			"<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');\n\nclass Articles extends CI_Controller {\n\n	function __construct(){\n		parent::__construct();\n		if (!$this->ion_auth->logged_in()){\n			redirect(base_url('admin'), 'refresh');\n		}\n	}",
+			"usualValidate",
+			"logMeIn",
+			"login",
+			"validate",
+			"article_id",
+			"file",
+			"success",
+			"green button",
+			"document.ready",
+			"document",
+			".js",
+			"editor",
+			"file",
+			"input",
+			"time",
+			"images/icons/update.png",
+			"images/icons/delete.png",
+			"images/icons/update.png",
+			"images/img.png",
+			"ckedito",
+			"cke",
+			"192",
+			"articles",
+			"visits",
+			"FAILURE: Oops sorry. ",
+			"FAILURE: Oops sorry. That action is not valid, or our servers have gone bonkers",
+			"base_url('images",
+			".png')?>",
+			"base_ur",
+			"base_url",
+			"<?php=base_url",
+			"=base_url",
+			".png\"",
+			"src=\"images/",
+			"http://ajax",
+			"clear",
+			"http://ajax",
+			".js\"",
+			"src=\"js",
+			".js\"",
+			"src=\"js",
+			"project",
+			"popraćenog organizacijskim ",
+			"popraćenog organizacijskim restrukturiranjem",
+			"Mr. Kunkera ",
+			"Mr. Kunkera has performe",
+			" Mr. Kunkera has performe",
+			"ur teams on ground and Mr. Kunkera has performe",
+			"On a project basis",
+			"on a project basis",
+			".as well as several construction an",
+			"and premium hotel), plants for the food production (confectionery products)...\" ",
+			"echo",
+			"font-size: 12",
+			"color",
+			"partner",
+			"Bralic",
+			"form",
+			"content_mo",
+			"content",
+			"submit_x",
+			"admin",
+			"submit",
+			"back",
+			"project-content",
+			"item",
+			"footer",
+			"\n.",
+			"service",
+			";\n",
+			"image",
+			"type",
+			"db",
+			"margin-bottom",
+			">>",
+			"<<",
+			"HEAD",
+			"load_asset",
+			"draw",
+			"_leaderboard",
+			"data-href",
+			"icon-checkmark",
+			"draw",
+			"load_more",
+			"HEAD",
+			"like",
+			"href",
+			"post",
+			"load_more",
+			"localStor",
+			"db",
+			"db.save",
+			"host",
+			"check_user",
+			"host",
+			"fb-like"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"session[:user_valid]",
+			"companies",
+			"assets/images/icons/update.png",
+			"<?=base_url('assets/images/icons/delete.png') ?>",
+			"<?=base_url('images/icons/delete.png') ?>",
+			"<?=base_url('images/icons/update.png') ?>",
+			"<?=base_url('assets/images/img.png') ?>",
+			"<?=base_url('assets/images/big.png') ?>images",
+			"base_url('assets/images",
+			".png')?>\"",
+			"base_url",
+			"<?=base_ur",
+			"base_url",
+			".png')?>",
+			"src=\"<?php=base_url('images/",
+			".js')?>\"",
+			"src=\"<?=base_url('assets/js",
+			".js')?>\"",
+			"src=\"<?=base_url('assets/",
+			"$this->_validate_request()",
+			"'",
+			"",
+			"redirect",
+			"$this->load_asset",
+			"current_path",
+			"/assets/js/plugins",
+			"/assetsjs/plugins"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3957,
+								3957
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "model.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								378
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"open_with_edit": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2386,
+								2386
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"open_with_edit": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/profile.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1518,
+								1518
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/sessions.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1266,
+								1266
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/home.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								513
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/spooners.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								894,
+								894
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "views/active_session.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								1503
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 92.0
+	},
+	"output.git-commit":
+	{
+		"height": 92.0
+	},
+	"output.git-init":
+	{
+		"height": 92.0
+	},
+	"output.git-merge":
+	{
+		"height": 92.0
+	},
+	"output.git-pull":
+	{
+		"height": 92.0
+	},
+	"output.git-push":
+	{
+		"height": 407.0
+	},
+	"output.sftp":
+	{
+		"height": 92.0
+	},
+	"project": "spooners.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hom",
+				"views/home.haml"
+			],
+			[
+				"sess",
+				"views/sessions.haml"
+			],
+			[
+				"navi",
+				"views/navigation.haml"
+			],
+			[
+				"lo",
+				"views/login.haml"
+			],
+			[
+				"la",
+				"views/layout.haml"
+			],
+			[
+				"log",
+				"views/login.haml"
+			],
+			[
+				"ac",
+				"views/active_session.haml"
+			],
+			[
+				"cre",
+				"views/create_session.haml"
+			],
+			[
+				"ho",
+				"views/home.haml"
+			],
+			[
+				"pr",
+				"views/profile.haml"
+			],
+			[
+				"na",
+				"views/navigation.haml"
+			],
+			[
+				"reg",
+				"views/register.haml"
+			],
+			[
+				"logi",
+				"views/login.haml"
+			],
+			[
+				"in",
+				"views/invite.haml"
+			],
+			[
+				"s",
+				"views/create_session.haml"
+			],
+			[
+				"ini",
+				"views/invite.haml"
+			],
+			[
+				"nav",
+				"views/navigation.haml"
+			],
+			[
+				"st",
+				"assets/css/style.css"
+			],
+			[
+				"pro",
+				"views/profile.haml"
+			],
+			[
+				"ses",
+				"views/sessions.haml"
+			],
+			[
+				"act",
+				"views/active_session.haml"
+			],
+			[
+				"inv",
+				"views/invite.haml"
+			],
+			[
+				"coun",
+				"application/models/county.php"
+			],
+			[
+				"head",
+				"application/views/admin/header.php"
+			],
+			[
+				"edit",
+				"application/views/admin/edit_article_category.php"
+			],
+			[
+				"arti",
+				"application/views/admin/article_categories.php"
+			],
+			[
+				"art",
+				"application/controllers/articles.php"
+			],
+			[
+				"main",
+				"assets/js/main.js"
+			],
+			[
+				"coma",
+				"application/models/company.php"
+			],
+			[
+				"com",
+				"application/controllers/companies.php"
+			],
+			[
+				"acom",
+				"application/views/admin/companies.php"
+			],
+			[
+				"admin",
+				"application/controllers/admin.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"headr",
+				"application/views/header.php"
+			],
+			[
+				"articl",
+				"application/controllers/articles.php"
+			],
+			[
+				"edi",
+				"application/views/admin/edit_company.php"
+			],
+			[
+				"new",
+				"application/views/admin/new_company.php"
+			],
+			[
+				"das",
+				"application/views/admin/dashboard.php"
+			],
+			[
+				"article",
+				"application/models/article.php"
+			],
+			[
+				"edit_art",
+				"application/views/admin/edit_article_category.php"
+			],
+			[
+				"ed",
+				"application/views/admin/edit_article.php"
+			],
+			[
+				"comp",
+				"application/views/admin/companies.php"
+			],
+			[
+				"rou",
+				"application/config/routes.php"
+			],
+			[
+				"au",
+				"application/config/autoload.php"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"g",
+				".gitignore"
+			],
+			[
+				"edt_ca",
+				"application/views/admin/edit_category.php"
+			],
+			[
+				"categories",
+				"application/views/admin/categories.php"
+			],
+			[
+				"ca",
+				"application/controllers/admin/categories.php"
+			],
+			[
+				"cate",
+				"application/views/categories.php"
+			],
+			[
+				"citi",
+				"application/views/admin/cities.php"
+			],
+			[
+				"rout",
+				"application/config/routes.php"
+			],
+			[
+				"artic",
+				"application/views/admin/articles.php"
+			],
+			[
+				"grid",
+				"Manifest_UIKit/HTML/grid.html"
+			],
+			[
+				"city",
+				"application/models/city.php"
+			],
+			[
+				"gi",
+				".gitignore"
+			],
+			[
+				"cu",
+				"assets/js/custom.js"
+			],
+			[
+				"ui",
+				"Manifest_UIKit/HTML/ui_elements.html"
+			],
+			[
+				"cit",
+				"application/models/city.php"
+			],
+			[
+				"form",
+				"Manifest_UIKit/HTML/forms.html"
+			],
+			[
+				"k",
+				"Kel_2014-08-29.sql"
+			],
+			[
+				"hea",
+				"application/views/admin/header.php"
+			],
+			[
+				"ci",
+				"application/controllers/cities.php"
+			],
+			[
+				"ar",
+				"application/models/article.php"
+			],
+			[
+				"aut",
+				"application/config/autoload.php"
+			],
+			[
+				"prof",
+				"application/views/admin/profile.php"
+			],
+			[
+				"p",
+				"application/config/profiler.php"
+			],
+			[
+				"ad",
+				"application/controllers/admin.php"
+			],
+			[
+				"ht",
+				".htaccess"
+			],
+			[
+				"for",
+				"Manifes_UIKit/HTML/forms.html"
+			],
+			[
+				"ne",
+				"application/views/admin/new_article.php"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"hta",
+				".htaccess"
+			],
+			[
+				"he",
+				"application/views/admin/header.php"
+			],
+			[
+				"",
+				"application/views/admin/header.php"
+			],
+			[
+				"cus",
+				"assets/js/custom.js"
+			],
+			[
+				"cl",
+				"application/views/admin/clients.php"
+			],
+			[
+				"cli",
+				"application/controllers/clients.php"
+			],
+			[
+				"wid",
+				"Manifes UIKit/HTML/widgets.html"
+			],
+			[
+				"gall",
+				"Manifes UIKit/HTML/gallery.html"
+			],
+			[
+				"ta",
+				"Manifes UIKit/HTML/table_dynamic.html"
+			],
+			[
+				"clie",
+				"application/views/admin/clients.php"
+			],
+			[
+				"red",
+				"application/libraries/render.php"
+			],
+			[
+				"inde",
+				"Manifes UIKit/HTML/index.html"
+			],
+			[
+				"con",
+				"application/config/config.php"
+			],
+			[
+				".hta",
+				".htaccess"
+			],
+			[
+				"da",
+				"application/config/database.php"
+			],
+			[
+				"fr",
+				"application/language/english/front_lang.php"
+			],
+			[
+				"fro",
+				"application/language/croatian/front_lang.php"
+			],
+			[
+				"o",
+				"application/views/o_nama.php"
+			],
+			[
+				"foo",
+				"application/views/includes/footer.php"
+			],
+			[
+				"proje",
+				"application/views/project.php"
+			],
+			[
+				"fron",
+				"application/language/english/front_lang.php"
+			],
+			[
+				"home",
+				"application/views/home.php"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"ko",
+				"application/views/kontakt.php"
+			],
+			[
+				"bio",
+				"application/views/biography.php"
+			],
+			[
+				"service",
+				"application/views/service.php"
+			],
+			[
+				"proj",
+				"application/views/project.php"
+			],
+			[
+				"se",
+				"application/views/service.php"
+			],
+			[
+				"pa",
+				"application/views/partners.php"
+			],
+			[
+				"ser",
+				"application/views/services.php"
+			],
+			[
+				"serv",
+				"application/controllers/services.php"
+			],
+			[
+				"cont",
+				"application/views/contact.php"
+			],
+			[
+				"frp",
+				"application/language/english/front_lang.php"
+			],
+			[
+				"part",
+				"application/controllers/partners.php"
+			],
+			[
+				"fo",
+				"application/views/includes/footer.php"
+			],
+			[
+				"hpm",
+				"application/views/home.php"
+			],
+			[
+				"my",
+				"application/core/MY_Lang.php"
+			],
+			[
+				"route",
+				"application/config/routes.php"
+			],
+			[
+				"foot",
+				"application/views/includes/footer.php"
+			],
+			[
+				"fun",
+				"admin/js/functions.js"
+			],
+			[
+				"h",
+				"application/views/includes/header.php"
+			],
+			[
+				"func",
+				"admin/js/functions.js"
+			],
+			[
+				"on",
+				"application/views/o_nama.php"
+			],
+			[
+				"n",
+				"admin/application/views/content/new_content.php"
+			],
+			[
+				"abou",
+				"application/controllers/about.php"
+			],
+			[
+				"iamge",
+				"CI/system/libraries/Image_lib.php"
+			],
+			[
+				"data",
+				"admin/application/config/database.php"
+			],
+			[
+				"qui",
+				"views/admin/quiz.php"
+			],
+			[
+				"noki",
+				"models/nokia_quiz.php"
+			],
+			[
+				"admi",
+				"controllers/admin.php"
+			],
+			[
+				"use",
+				"helpers/user.php"
+			],
+			[
+				"vi",
+				"core/view.php"
+			],
+			[
+				"rpu",
+				"core/router.php"
+			],
+			[
+				"conf",
+				"config/paths.php"
+			],
+			[
+				"swi",
+				"views/nokia_switch.php"
+			],
+			[
+				"game",
+				"views/game_memory.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"Ke",
+				"~/Development/Websites/Kel/kel.sublime-workspace"
+			],
+			[
+				"ke",
+				"~/Development/Websites/Kel/kel.sublime-workspace"
+			],
+			[
+				"",
+				"~/Development/Websites/Kel/kel.sublime-workspace"
+			],
+			[
+				"kel",
+				"~/Development/Websites/Kel/kel.sublime-workspace"
+			],
+			[
+				"noki",
+				"~/Development/Websites/Nokia/nokia.sublime-project"
+			],
+			[
+				"maz",
+				"~/Development/Websites/Mazda/mazda.sublime-project"
+			],
+			[
+				"ma",
+				"~/Development/Websites/Mazda/mazda.sublime-project"
+			],
+			[
+				"niki",
+				"~/Development/Websites/Nokia/nokia.sublime-project"
+			],
+			[
+				"no",
+				"~/Development/Websites/Nokia/nokia.sublime-project"
+			],
+			[
+				"turnt",
+				"~/Development/Webapps/Turnt/Server/TurntServer.sublime-project"
+			],
+			[
+				"tu",
+				"~/Development/Webapps/Turnt/Server/TurntServer.sublime-project"
+			],
+			[
+				"man",
+				"~/Development/Webapps/ManifestCMS/ManifestCMS.sublime-project"
+			],
+			[
+				"s",
+				"~/Development/Webapps/Spooners/spooners.sublime-project"
+			],
+			[
+				"spoo",
+				"~/Development/Webapps/Spooner/spooner.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

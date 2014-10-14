@@ -1,0 +1,7 @@
+var Log = function (value) ->
+	console.log value
+
+ready = ->
+
+	if window.jQuery ->
+		Log "ready"

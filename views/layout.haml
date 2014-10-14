@@ -1,0 +1,17 @@
+%html 
+  %head
+    = css 'style', 'bootstrap.min'
+    %title Spooners
+  %body 
+    .container-fluid
+      .row
+        = haml :loader
+        = haml :navigation
+        = haml :register
+        = haml :login
+        = haml :invite
+        = haml :create_session
+        = session[:user_data]
+      = yield
+  %footer
+    = js 'jquery.min', 'main', 'script', 'bootstrap.min', 'jquery.validate.min'

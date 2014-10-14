@@ -1,0 +1,35 @@
+.row
+	.col-md-2
+	.col-md-8
+		.page-heading.rules-heading 
+			%h1 
+				Spooners pit
+				%small invite spooners to your session by selecting them of a list
+		.col-md-2
+.row 
+	.col-md-2
+	.col-md-8
+		.well.well-lg{:style => "margin-top: 15px"}
+			%h3 Invite more spooners!
+			%p Introduce the game to friends, invite them to play!
+			%button.btn.btn-primary.btn-lg.open-settings#invite{:type => "button"}  INVITE
+		%table.table 
+			%tr
+				%th Spooner name:
+				%th Spooner email:
+				%th Hits:
+				%th Score:
+				%th Over all score:
+				%th Status:
+				%th Invite Spooner
+			= @all_spooners.each do |spooner|
+				%tr
+					%td= spooner.username
+					%td= spooner.email
+					%td= spooner.confirmed_hits
+					%td= spooner.score
+					%td= spooner.total_score
+					%td= spooner.status
+					%td 
+						%button.btn.btn-primary.btn-xs.text-uppercase#invite_spooner{:href => "#", "spooner-id" => spooner.id} invite
+	.col-md-2

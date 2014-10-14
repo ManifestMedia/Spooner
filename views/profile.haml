@@ -1,0 +1,148 @@
+="#{@spooner.inspect}"
+="#{@session.inspect}"
+.row
+	.col-md-2
+	.col-md-8
+		.page-heading.rules-heading 
+			%h1 
+				My Profile
+				%small=(@spooner.active ? "Currently playing as, #{@role}" : "You have no active sessions")
+	.col-md-2
+.row.row-session-info
+	.col-md-2
+	.col-md-4
+		%dl.dl-horizontal
+			%dt Name:
+			%dd.text-uppercase=@spooner.username
+			%dt Email:
+			%dd.text-uppercase=@spooner.email
+			%dt Total Hits:
+			%dd.text-uppercase=@spooner.confirmed_hits
+			%dt Total Score:
+			%dd.text-uppercase=@spooner.total_score
+			%dt Played sessions:
+			%dd.text-uppercase=@spooner.played_sessions
+			%dt Sessions won:
+			%dd.text-uppercase=@spooner.sessions_won
+
+	.col-md-4
+		.thumbnail.profile-pic
+			%img{"src" => "/images/profile_placeholder.jpg", "alt" => "..."}
+			%btn.btn.btn-primary.btn-xs.btn-block.report-hit Upload Image
+	.col-md-2
+- if @spooner.active
+	- if @spooner.is_mod
+		.row
+			.col-md-2
+			.col-md-8
+				.page-heading.rules-heading 
+					%h1 My active Session!
+				.panel.panel-primary.methods#active-session
+					.panel-heading
+						%h3.panel-heading.panel-title.rules-title.text-uppercase="Session name: #{@game_session.name}"
+					%table.table 
+						%tr
+							%th Session started
+							%th Active spooners
+							%th Eliminated spooners
+							%th Best score
+							%th 
+						%tr	
+							%td= @game_session.start_on
+							%td= spooners_in_session
+							%td= eliminated_spooners
+							%td= "#{best_spooner.username} (#{best_spooner.score})"
+							%td 
+								%a(href="/active_session") Details
+			.col-md-2
+	- else 
+		.row
+			.col-md-2
+			.col-md-8
+				.page-heading.rules-heading 
+					%h1 
+						My Target
+			.col-md-2
+		.row.row-session-info
+			.col-md-2
+			.col-md-4
+				%dl.dl-horizontal
+					%dt Name:
+					%dd.text-uppercase SpoonerGirl69
+					%dt Email:
+					%dd.text-uppercase mika@email.com
+					%dt Total Hits:
+					%dd.text-uppercase 12
+					%dt Total Score:
+					%dd.text-uppercase 6
+			.col-md-4
+				.thumbnail.profile-pic
+					%img{"src" => "/images/profile_placeholder.jpg", "alt" => "..."}
+					%btn.btn.btn-danger.btn-xs.btn-block.report-hit Report Hit
+			.col-md-2
+		.row
+			.col-md-2
+			.col-md-8
+				.panel.panel-primary.methods#active-session
+					.panel-heading
+						%h3.panel-heading.panel-title.rules-title.text-uppercase Session name: Ultimate deathmach.
+					%table.table 
+						%tr
+							%th My status
+							%th My target
+							%th My score this session
+							%th My kills
+						%tr	
+							%td Active
+							%td SpoonerGirl69
+							%td 5
+							%td 3
+
+				.panel.panel-default.methods#methods
+					.panel-heading
+						%h3.panel-heading.panel-title.rules-title.text-uppercase Report a suspect
+					.panel-body
+						%p Enter your suspects username or email (single entry)
+						%form.login-form{"role" => "form"}
+							.form-group
+								%input.form-control#username{ "type" => "text", "placeholder" => "Enter username or email"}
+							%button.btn.btn-danger{:type => "submit"} Report
+			.col-md-2
+- else 
+	.row
+		.col-md-2
+		.col-md-8
+			.page-heading.rules-heading 
+				%h1 
+					My active Session!
+					%small No active sessions!
+
+			.no-active-session
+				%button.btn.btn-primary.btn-lg.btn-lg.btn-block.open-settings#new-session{:type => "button"}  START NEW SESSION!
+		.col-md-2
+
+.row
+	.col-md-2
+	.col-md-8	
+		.page-heading.rules-heading.previous-sessions 
+			%h1 
+				My previous Sessions!
+		%table.table 
+			%tr
+				%th Session name
+				%th Session moderator
+				%th Total kills
+				%th Total players
+				%th My status
+				%th My score this session
+				%th My total kills
+			%tr	
+				%td Rodeo showdown
+				%td SuperSpooner
+				%td 24
+				%td 22
+				%td Moderator
+				%td 23
+				%td 12
+	.col-md-2
+			

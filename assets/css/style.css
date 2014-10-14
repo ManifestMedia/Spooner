@@ -1,0 +1,198 @@
+.no-border {
+	border-radius: 0px !important;
+}
+
+.shadow {
+   -moz-box-shadow:    inset 0 0 8px 3px #000000 !important;
+   -webkit-box-shadow: inset 0 0 8px 3px #000000 !important;
+   box-shadow:         inset 0 0 8px 3px #000000 !important;
+}
+
+.profile-pic {
+	width: 150px;
+}
+
+.container-fluid {
+	width: 100%;
+	padding: 0px !important;
+}
+
+.container-fluid > .row {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
+
+.loader {
+	display: none;
+	position: absolute;
+	width: 50px;
+	top: 160px;
+	left: 50%;
+	margin-left: -25px;
+	z-index: 999;
+}
+
+.loader img {
+	width: 50px;
+}
+
+.navbar {
+	margin-bottom: 0 !important;
+}
+
+.navbar span {
+ 	margin-right: 5px;
+}
+
+.jumbotron {
+	margin-top: 20px;
+}
+
+.jumbotron {
+	border-radius: 6px;
+}
+
+.well p {
+	font-size: 18px;
+	font-weight: 200;
+}
+
+.rules-heading {
+	border-bottom: 1px solid #eee !important;
+}
+
+.rules-title {
+	font-size: 22px !important;
+}
+
+.panel {
+	margin: 20px auto !important;
+}
+
+.icon-close {
+	height: 25px;
+	display: block;
+	background-image: url('../images/close_arrow.jpg');
+}
+
+.settings {
+	 background-image: url("../images/settings_background.png");
+	 display: none;
+	 margin-bottom: 20px;
+	 padding-top: 40px;
+}
+
+.close-settings {
+	padding: 5px 0 5px 0;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.close-settings-button {
+	background-color: transparent !important;
+	color: white !important;
+}
+
+#close-register, #close-login, #close-invite, #add-spooner, #close-new-session {
+	
+}
+
+.settings p {
+	color: white;
+}
+
+.settings h3 {
+	color: white;
+	margin-top: 0;
+}
+
+#active-session {
+	margin-bottom: 80px !important;
+}
+
+.no-active-session {
+	display: block;
+	width: 60%;
+	margin-bottom: 60px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.form-control {
+	max-width: 350px;
+}
+
+#spooners {
+	display: inline;
+}
+
+#add-spooner {
+	margin-left: 25px;
+	clear: right;
+}
+
+.row-session-info {
+	margin-top: 40px;
+}
+
+.row-session-info dl {
+	font-size: 18px !important;
+	font-weight: 200 !important;
+}
+
+.row-session-info dd {
+	padding-bottom: 10px !important;
+}
+
+.report-hit {
+	margin-top: 10px;
+}
+
+.alert-success, .alert-danger {
+	display: none;
+}
+
+.spooners-alert {
+	border: 1px solid white !important;
+	background-color: transparent !important;
+	width: 600;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 16px;
+}
+
+.spooners-alert .button {
+	color: white !important;
+}
+
+.close-notification {
+	display: block;
+	width: 5px;
+	height: 5px;
+	float: right;
+	padding: 2px;
+	cursor: pointer;
+	color: white !important;
+	margin-top: -3px;
+}
+
+
+
+/*.the-goal {
+	max-width: 75%;
+	margin: 0 auto;
+}
+
+.the-goal h3 {
+	font-size: 18px;
+	font-weight: 200;	
+}
+
+.methods {
+	width: 75%;
+	margin: 20px auto;
+*/}

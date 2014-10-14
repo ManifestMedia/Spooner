@@ -1,0 +1,16 @@
+.col-md-12.settings.new-session.shadow
+	= haml :notifications
+	%h3 Create Session
+	%form#create_session-form{"role" => "form"}
+		.form-group
+			%input.form-control#session-name{ "type" => "text", "placeholder" => "Enter Session name", :name => "name"}
+		.form-group
+			%p Quick add:
+			%input.form-control#spooners{ "type" => "text", "placeholder" => "Add spooners"}
+			%button.btn.btn-default#add-spooner{:type => "submit"} Add
+		/ .form-group
+		/ 	%p Invite new spooners (insert emails spearated only by commas)
+		/ 	%textarea.form-control 
+		%button.btn.btn-default{:type => "submit"} Create session
+	.close-settings	
+		%button.btn.btn-default.close-settings-button{:type => "submit"} Close

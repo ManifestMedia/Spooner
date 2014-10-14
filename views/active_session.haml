@@ -1,0 +1,96 @@
+- if @spooner.active
+	- if @spooner.is_mod
+		.row
+			.col-md-2
+			.col-md-8
+				.page-heading.rules-heading 
+					%h1 
+						My active Session!
+						%small=(@spooner.active ? "Currently playing as, #{@role}" : "You have no active sessions")
+				.col-md-2
+		.row.row-session-info
+			.col-md-2
+			.col-md-4
+				%dl.dl-horizontal
+					%dt Session Name:
+					%dd.text-uppercase= @game_session.name
+					%dt Session Start:
+					%dd.text-uppercase= @game_session.start_on
+					%dt Total Spooners:
+					%dd.text-uppercase= spooners_in_session
+					%dt Active Spooners:
+					%dd.text-uppercase= active_spooners_in_session
+					%dt Status:
+					%dd.text-uppercase= @game_session.status
+			.col-md-4
+			.col-md-2
+		.row 
+			.col-md-2
+			.col-md-8
+				%h3 Spooners in session:
+				%table.table 
+					%tr
+						%th Spooner name:
+						%th Spooner email:
+						%th Hits:
+						%th Score:
+						%th Over all score:
+						%th Target:
+						%th Status:
+						%th Eliminate Spooner
+						%th Assign Target	
+					= @active_spooners.each do |spooner|
+						%tr
+							%td= spooner.username
+							%td= spooner.email
+							%td= spooner.confirmed_hits
+							%td= spooner.score
+							%td= spooner.total_score
+							%td= spooner.current_target
+							%td= spooner.status
+							%td 
+								%button.btn.btn-danger.btn-xs.text-uppercase eliminate
+							%td 
+								%select.form-control
+									= @active_spooners.each do |target|		
+										- if spooner.id != target.id
+											%option= target.username
+			.col-md-2
+	- else
+		.row
+			.col-md-2
+			.col-md-8
+				.page-heading.rules-heading 
+					%h1 
+						My active Session!
+						%small=(@spooner.active ? "Currently playing as, #{@role}" : "You have no active sessions")
+				.panel.panel-primary.methods#active-session
+					.panel-heading
+						%h3.panel-heading.panel-title.rules-title.text-uppercase Session name: Ultimate deathmach.
+					%table.table 
+						%tr
+							%th My status
+							%th My target
+							%th My score this session
+							%th My kills
+							%th 
+						%tr	
+							%td Active
+							%td Mad_spooner43
+							%td 5
+							%td 3
+							%td 
+								%a(href="/profile") Details 
+- else
+	.row 
+		.col-md-2
+		.col-md-8
+			.page-heading.rules-heading 
+				%h1 
+					My active Session!
+					%small No active sessions!
+
+				.no-active-session
+					%button.btn.btn-primary.btn-lg.btn-lg.btn-block.open-settings#new-session{:type => "button"}  START NEW SESSION!
+		.col-md-2
+	
