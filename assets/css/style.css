@@ -148,7 +148,7 @@
 	padding-bottom: 10px !important;
 }
 
-.report-hit {
+.report-hit, .btn-profile-img  {
 	margin-top: 10px;
 }
 
@@ -178,6 +178,10 @@
 	cursor: pointer;
 	color: white !important;
 	margin-top: -3px;
+}
+
+.file-input {
+	color: white;
 }
 
 

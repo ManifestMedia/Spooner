@@ -8,6 +8,7 @@ class Spooner
   property :id, Serial
   property :username, String
   property :email, String
+  property :profile_img, String
   property :password, String
   property :created_on, Date
   property :total_score, Integer

@@ -1,0 +1,12 @@
+.col-md-12.settings.upload.shadow
+	= haml :notifications
+	%h3 Upload Image
+	%form#upload-img-form{"role" => "form", :action => "/upload-image", :method => "post", :enctype => "multipart/form-data"}
+		.form-group
+			%input.file-input{:type => 'file', :name => "profile-img"}    
+		.form-group
+			%button.btn.btn-default{:type => "submit"} Uploade Image
+	.close-settings	
+		%button.btn.btn-default.close-settings-button{:type => "submit"} Close
+
+		

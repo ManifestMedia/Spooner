@@ -116,6 +116,10 @@ module ModelHelpers
   	end
   end
 
+  def save_image
+
+  end
+
   def spooners_in_session
   	Spooner.all(:active_session => @game_session.id, :is_mod => false).count
   end
@@ -159,6 +163,8 @@ helpers do
 end
 
 get ('/js/script.js') {coffee :script}
+
+get ('/uploads/:file') { send_file('uploads/'+params[:file], :disposition => 'inline')}
 
 get '/' do 
 	haml :home
@@ -245,3 +251,33 @@ post '/create_session' do
 	end
 	response.to_json
 end
+
+post '/upload-img' do
+  content_type 'application/json'
+  File.open('uploads/' + params['profile-img'][:filename], "w") do |f|
+    f.write(params['profile-img'][:tempfile].read)
+    uploaded = true
+  end
+  @spooner = Spooner.get(session[:user_data]["id"])
+  @spooner.profile_img = params['profile-img'][:filename]
+  if @spooner.save && uploaded
+    response = {"success" => 1, "message" => "Profile image uploaded!", "filename" => params['profile-img'][:filename]}
+  else 
+    response = {"success" => 0, "message" => "There was a problem while uploading"}    
+  end
+#  response = {"success" => 1, "message" => "Profile image uploaded!", "filename" => params['profile-img'][:filename]}
+  response.to_json
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
