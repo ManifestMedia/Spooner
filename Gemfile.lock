@@ -2,10 +2,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.3.6)
-    coffee-script (2.2.0)
-      coffee-script-source
-      execjs
-    coffee-script-source (1.7.0)
     data_objects (0.10.14)
       addressable (~> 2.1)
     dm-core (1.2.1)
@@ -25,7 +21,6 @@ GEM
       data_objects (= 0.10.14)
     do_sqlite3 (0.10.14)
       data_objects (= 0.10.14)
-    execjs (2.0.2)
     haml (4.0.5)
       tilt
     pg (0.17.1)
@@ -42,7 +37,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-script
   dm-core
   dm-migrations
   dm-postgres-adapter
@@ -50,3 +44,6 @@ DEPENDENCIES
   haml
   pg
   sinatra
+
+BUNDLED WITH
+   1.10.6

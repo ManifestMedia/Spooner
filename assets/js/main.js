@@ -50,7 +50,8 @@ $( document ).ready(function() {
   //Inviting spooners
   $('#invite_spooner').click(function(event){
     event.preventDefault()
-    spooner_id = $(this).attr("spooner-id").val()
+    Log("Invite spooner "+$(this))
+    spooner_id = $(this).attr("spooner-id")
     $.post('/invite_spooner', {"spooner_id" : spooner_id}, function(response){
       if (response.success) {
         $(this).replace("<p>"+response.message+"</p>")

@@ -1,0 +1,11 @@
+- hosts: all
+  
+  tasks:
+    - name: Remove system ruby
+      apt: pkg=ruby state=absent  
+    - name: Install Bundler
+      gem:
+        name: bundler
+        user_install: no
+
+

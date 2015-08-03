@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gem "sinatra"
 gem "haml"
-gem "coffee-script"
+#gem "coffee-script"
 
 gem "dm-core"
 gem "dm-migrations"

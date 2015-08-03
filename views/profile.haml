@@ -27,7 +27,7 @@
 
 	.col-md-4
 		.thumbnail.profile-pic
-			%img{"src" => "/images/profile_placeholder.jpg", "alt" => "..."}
+			%img{"src" => @spooner.profile_img ? "/uploads/"+@spooner.profile_img : "/images/profile_placeholder.jpg", "alt" => "..."}
 			%btn.btn.btn-primary.btn-xs.btn-block.btn-profile-img.open-settings#upload Upload Image
 	.col-md-2
 - if @spooner.active

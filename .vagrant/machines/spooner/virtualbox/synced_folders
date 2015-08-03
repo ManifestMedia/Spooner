@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/app":{"mount_options":["dmode=777","fmode=666"],"guestpath":"/var/www/app","hostpath":"/Users/Simun/Development/Web/Spooners","disabled":false}}}

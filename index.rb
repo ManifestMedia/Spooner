@@ -256,11 +256,10 @@ post '/upload-img' do
   content_type 'application/json'
   File.open('uploads/' + params['profile-img'][:filename], "w") do |f|
     f.write(params['profile-img'][:tempfile].read)
-    uploaded = true
   end
   @spooner = Spooner.get(session[:user_data]["id"])
   @spooner.profile_img = params['profile-img'][:filename]
-  if @spooner.save && uploaded
+  if @spooner.save
     response = {"success" => 1, "message" => "Profile image uploaded!", "filename" => params['profile-img'][:filename]}
   else 
     response = {"success" => 0, "message" => "There was a problem while uploading"}    
@@ -268,6 +267,14 @@ post '/upload-img' do
 #  response = {"success" => 1, "message" => "Profile image uploaded!", "filename" => params['profile-img'][:filename]}
   response.to_json
 end
+
+post '/invite_spooner' do
+  #poslat email spooneru
+  #postavit mu status invited i active
+  #dodat ga u session i na session listu od moda koji ga je pozvao
+  #na profile dodati invited to session!
+end
+
 
 
 
