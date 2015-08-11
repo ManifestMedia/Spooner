@@ -12,10 +12,11 @@ Project Setup
 + Once on the guest machine, start the unciorn server, by running the daemon: `sudo service unicorn start`
 
 #### Troubleshooting
-> If for some reason unicorn daemon wont start try, purging system ruby on the guest machine: `sudo aptitude purge ruby`. For more details check the logs in `/var/www/unicorn/log/`.
+If for some reason unicorn daemon wont start try, purging system ruby on the guest machine: `sudo aptitude purge ruby`. 
 
+> For more details check the logs in `/var/www/unicorn/log/`.
 
-> If there is a dependencies problem try runing `gem install bundler` on the guest machine, and then `rbenv rehash` to reload bundler in $PATH.
+If there is a dependencies problem try runing `gem install bundler` on the guest machine, and then `rbenv rehash` to reload bundler in $PATH.
 
 Game Introduction
 -----------------
@@ -47,7 +48,6 @@ Product Development
 	- [ ] Develop basic api and core game logic engine
 	- [ ] Present web app prototype
 - **Marketing** - _Morana Vrdoljak_
-	- [ ] 
 
 
 
